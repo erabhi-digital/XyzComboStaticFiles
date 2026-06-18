@@ -1,0 +1,1 @@
+# xyz-combo-staticfile
